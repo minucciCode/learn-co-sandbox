@@ -8,3 +8,5 @@ function myFunction(){
 console.log(y); // Error!
  
 console.log(x); // 1
+
+myFunction()
