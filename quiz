@@ -5,8 +5,8 @@ function myFunction(){
   console.log(x);
 }
  
-console.log(y); // Error!
+myFunction(); // 1
+ 
+console.log(y); // 2
  
 console.log(x); // 1
-
-myFunction()
